@@ -1,4 +1,4 @@
-# 도서 관리 시스템 - Locallibrary
+# 도서 관리 시스템
 
 ## Skills
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp; <!--django-->
