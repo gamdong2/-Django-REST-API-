@@ -1,5 +1,8 @@
 # 도서 관리 시스템 - Locallibrary
 
+## Skills
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp; <!--django-->
+
 ## 프로젝트 목표
 1. **도서 관리 시스템 구축**: 도서 목록 조회, 상세 정보와 대출 상태 확인 기능을 제공하여 도서관의 효율적인 관리와 접근성 향상
 2. **REST API 제공**: 도서 정보와 대출 데이터를 REST API로 제공하여 외부 시스템 또는 프론트엔드와 연동 가능한 구조 구축
