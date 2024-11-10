@@ -11,6 +11,11 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/BeautifulSoup-FF7A59?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 
+## 프로젝트 상세
+
+- **진행 기간**: 2024년 8월 13일 ~ 2024년 8월 14일
+- **프로젝트 유형**: 개인 프로젝트
+
 ## 프로젝트 목표
 1. **도서 관리 시스템 구축**: 도서 목록 조회, 상세 정보와 대출 상태 확인 기능을 제공하여 도서관의 효율적인 관리와 접근성 향상
 2. **REST API 제공**: 도서 정보와 대출 데이터를 REST API로 제공하여 외부 시스템 또는 프론트엔드와 연동 가능한 구조 구축
