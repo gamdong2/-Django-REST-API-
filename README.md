@@ -55,10 +55,7 @@
    - **해결 방법**: `settings.py`에서 DATABASE 설정을 확인하고, MySQL 서버가 실행 중인지 확인. 이후 올바른 호스트와 포트 번호 입력하여 해결
 
 2. **문제**: API 호출 시 'AttributeError: module 'rest_framework' has no attribute 'APIView'' 오류 발생
-   - **해결 방법**: `djangorestframework` 라이브러리 설치를 확인하고, 최신 버전으로 업데이트한 뒤 문제 해결
-
-3. **문제**: 페이지네이션 시 'Page not found (404)' 오류가 발생
-   - **해결 방법**: `ListView`에서 `paginate_by` 설정 확인 후 URL 패턴에 페이지 번호를 포함하여 페이지네이션 문제 해결
+   - **해결 방법**: `djangorestframework` 라이브러리 설치를 확인하고, 최신 버전으로 업데이트하여 문제 해결
 
 ## 프로젝트를 통해 얻은 역량
 - **Django 웹 개발 역량**: Django 모델링, 뷰, URL 매핑, 템플릿 엔진 활용
